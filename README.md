@@ -1,4 +1,4 @@
-# 6140-PODEM-and-Deductive-Fault-Simulator
+# PODEM-and-Deductive-Fault-Simulator
 
 ## Usage
     1. Unzip the file.
